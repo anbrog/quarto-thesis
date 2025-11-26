@@ -26,11 +26,11 @@ thesis:
   supervisor: 
     name: Dr. Ashok Kunil
     url: https://quarto.org/
-  degree-name: Doctor of Philosophy
-  university: University of Ottawa
-  department: Department of Mathematics
-  group: Informatics Program
-  faculty: Applied Math Group
+  degree-name: Master of Science
+  university: Rotterdam School of Management, Erasmus University
+  department: Department of Finance
+  group: Finance \& Investments Program
+  faculty: ""
   declaration: "Frontmatter/declaration.tex"
   quotation:
     text: "Thanks to my solid academic training, today I can write hundreds of words on virtually any topic without possessing a shred of information, which is how I got a good job in journalism."
