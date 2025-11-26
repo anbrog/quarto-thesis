@@ -27,9 +27,8 @@ thesis:
     name: Dr. Ashok Kunil
     url: https://quarto.org/
   degree-name: Doctor of Philosophy
-  university: University of Ottawa
-  department: Department of Mathematics
-  group: Informatics Program
+  university: Rotterdam School of Management, Erasmus University
+  department: Finance
   faculty: Applied Math Group
   declaration: "Frontmatter/declaration.tex"
   quotation:
